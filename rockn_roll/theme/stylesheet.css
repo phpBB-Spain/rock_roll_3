@@ -763,3 +763,8 @@ li.row strong {
 .tabcontent{
 	display: none;
 }
+
+.linklist i {
+    color: #000000;
+    text-shadow: 2px 2px 3px #ffffff;
+}
