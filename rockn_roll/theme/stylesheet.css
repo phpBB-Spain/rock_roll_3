@@ -111,7 +111,7 @@ ul.topiclist2 dt .list-inner2 {
 }
 
 ul {
-    list-style-type: none;
+    /*list-style-type: none;*/
 }
 
 ul.forums, ul.topics {
