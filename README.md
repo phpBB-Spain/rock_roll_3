@@ -34,6 +34,6 @@ Vinny
 
 ThE KuKa (Raúl Arroyo Monzo)
 
-## © 2003 / 2020 [phpBB España](https://www.phpbb-es.com)
+## © 2003 / 2021 [phpBB España](https://www.phpbb-es.com)
 
 ![phpBB Spain](https://www.phpbb-es.com/images/logo_new_small.png) 
