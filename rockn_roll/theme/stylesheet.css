@@ -682,6 +682,43 @@ li.row strong {
     background-repeat: repeat-y;
 }
 
+/* Pagination */
+
+.pagination li a {
+	background: #CBCBCB;
+	filter: none;
+	border-color: #000000;
+	box-shadow: none;
+	-webkit-box-shadow: none;
+	color: #5C758C;
+}
+
+.pagination li.ellipsis span {
+	background: transparent;
+	color: #000000;
+}
+
+.pagination li.active span {
+	background: #2C2C2C;
+	border-color: #000000;
+	color: #FFFFFF;
+}
+
+.pagination li a:hover, .pagination li a:hover .icon, .pagination .dropdown-visible a.dropdown-trigger, .nojs .pagination .dropdown-container:hover a.dropdown-trigger {
+	background: #4E4234;
+	border-color: #000000;
+	filter: none;
+	color: #FFFFFF;
+	text-shadow: none;
+}
+
+/* Rules colour */
+
+div.rules {
+    background-color: #ACACAC;
+    color: #BC2A4D;
+}
+
 /* Small changes responsive Rock'n Roll - START */
 
 @media only screen and (max-width: 700px), only screen and (max-device-width: 700px) {
