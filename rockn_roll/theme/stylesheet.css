@@ -777,3 +777,9 @@ li.row strong {
     color: #000000;
     text-shadow: 2px 2px 3px #ffffff;
 }
+
+/* CSS Extensions */
+
+#phpbb_announcement {
+	background-color: #ACACAC; /* Rock colour */
+}
